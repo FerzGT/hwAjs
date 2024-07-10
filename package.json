@@ -1,0 +1,14 @@
+{
+  "name": "hwajs",
+  "version": "1.0.0",
+  "main": "index.js",
+"scripts": {
+   "start": "node src/index.js"
+},
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@ferzgt/ajs": "^1.0.0"
+  }
+}
